@@ -22,16 +22,22 @@
 - buddhist monasteries and stupas got major gifts on the silk road and were meeting spots for traveling merchants
 - silk road was primary route for buddhism spread
 
-> ###### Mahayana buddhism
+> ##### Mahayana buddhism
 > new form where buddha is a deity and an emphasis on compassionate works and the earning of merit
+> 
 > zoroastrian fire rituals became part of buddhist rituals
+> 
 > the gods of many people along silk roads were incorporated into buddhist practice as bodhisattvas
-> bodhisattvas (in mahayana buddhism) is a person whos able to reach nirvana but delays so out of compassion in order to save suffering beings
+> 
+> `bodhisattvas` (in mahayana buddhism) is a person whos able to reach nirvana but delays so out of compassion in order to save suffering beings
 
-#### Technology
+#### Technology #themes/technology-and-innovation 
 
 > **Compass** used directly by the Song Dynasty in 1000 CE (reached EU by 1200 CE)
 > 
-> **Astrolabes** instrument used to make astronomical measurements, usually where they are in the stars (latitude of celestial bodie). (Originally created by Greeks, perfected by muslims in 900 CE)
+> **Astrolabes** instrument used to make astronomical measurements, usually where they are in the stars (latitude of celestial bodie)
+> *Originally created by Greeks, perfected by muslims in 900 CE*
 
 The growth of interregional trade in lux goods was encouraged by innovations in previously existing transportation and commercial tech, including the `caravanserai`, forms of credit, and then devment of money econs as well as the use of the compass, the astrolabe, and larger ship designs
+
+> **caravanserai** inns/guesthouses for caravans along the Silk Road

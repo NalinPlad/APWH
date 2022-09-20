@@ -2,7 +2,7 @@
 
 Within only few years **controlled largest land based empire** in all of human history
 
-### Genghis Khan
+### Genghis Khan #person
 
 `Genghis Khan / Temujin` born in **12th century** into network of Mongolian tribes who were fractured and at war with each other
 
@@ -20,7 +20,7 @@ Within only few years **controlled largest land based empire** in all of human h
 > - Didn't have goal of conquering, but kept conquering because they could
 > - China's population outnumbered them 100:1
 
-### The Mongolian Empire
+### The Mongolian Empire #place #themes/governance 
 
 Mongolian and Turkic horseback riders (archers + lancers) were backbone of the military
 
@@ -35,15 +35,15 @@ Conquered China, Korea, Tibet, the Eurasian Steppe, Russians, Persia, the Caucus
 
 ### Golden Horde (Batu Khan)
 
-*1236* | **Batu Khan (grandson)** led 100k-man army called `Golden Horde` to Russia
+*1236* | **Batu Khan (grandson)** #person led 100k-man army called `Golden Horde` to Russia
 
-*1240* | **Kiev (Russia's capital)** was pillaged and demolished
+*1240* | **Kiev (Russia's capital)** #place was pillaged and demolished
 
 Century later, Moscow leaders began effort to collect funding to make military resistance against Mongols
 
 *1380* | `Golden Horde` defeated at Battle of Kulikovo -> Mongol influence declined 
 
-### Hulagu Khan (grandson)
+### Hulagu Khan (grandson) #person
 
 Led Mongolian fighters into southwest region
 
@@ -55,24 +55,24 @@ Led Mongolian fighters into southwest region
 > 
 > Mongol idealogy shifted to support murdering Christians + Jews
 
-### Kublai Khan (grandson)
+### Kublai Khan (grandson) #person
 
 - Wanted to conquer China (Song Dynasty)
 - Founded **Yuan Dynasty**
-- Oversaw rebuild of `capital Zhongdu` (*1215* | Previously destroyed by Mongols)
+- Oversaw rebuild of `capital Zhongdu` #place (*1215* | Previously destroyed by Mongols)
 
 > Foreigners were hired for bureaucratic roles, Buddhists and Daoists permeated government through the civil service exams, and only Mongols could speak Mongolian
 
 *1274* | Asian regions successfully defended against Mongols (Japan, Indochina, Burma, Java)
 
-### Yam System
+### Yam System #themes/technology-and-innovation 
 
 Postal system / supply point route messenger system
 
 - Used and expanded by Ogedei Khan + other Khans
 - Relay stations provided food, shelter, spare horses for Mongol army messengers
 
-### Mongol Fragmentation
+### Mongol Fragmentation #themes/governance 
 
 The position of `Great Khan` became target of factional dispute and civil war
 
@@ -80,7 +80,7 @@ The position of `Great Khan` became target of factional dispute and civil war
 
 > **Khanates** Golden Horder, Chagatai, Ilkhanate, Yuan Dynasty
 
-### Ming Dynasty
+### Ming Dynasty #themes/governance 
 
 *1368* | `White Lotus Society` (under leadership of poor Buddhist monk `Zhu Yuanzhang`) successfully revolted + founded new leadership of the `Ming Dynasty (1368-1644)`
 
@@ -100,7 +100,7 @@ Resurgence of trade + widespread exchange of ideas/goods
 - murder, rape, torture, enslavement
 - regional plague in China that spread
 
-### Technological + Cultural Transfers
+### Technological + Cultural Transfers #themes/technology-and-innovation 
 
 - Greco-Roman + Islamic medical knowledge came west
 - Numbers lifted EU out of Dark Ages (Arabic numerals)

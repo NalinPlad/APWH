@@ -15,7 +15,7 @@ Religion was also transfered
 >
 > *Predictable winds allowed trade to be a lot less risky*
 
-### Technology
+### Technology #themes/technology-and-innovation 
 
 Magnetic Needle / Compass, Astrolabe
 
@@ -23,10 +23,9 @@ Magnetic Needle / Compass, Astrolabe
 
 **Stern post rudder** Made it easier to steer ships
 
-## Zheng He
+## Zheng He #person
 
-Forced into service for `Zhu Di` (Yongle) the Emperor of the Ming Dynasty <br>
-
+Forced into service for `Zhu Di` (Yongle) the Emperor of the Ming Dynasty #person<br>
 Got along with Zhu Di very well
 
 *1405* | Zheng He voyaged to establish Chinese power and prestige in the Indian Ocean and exert Chinese control over foreign trade in the system
