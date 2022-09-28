@@ -31,6 +31,6 @@ Had a Divan council who would debate and then advised the coucil
 
 Sunni Muslim empire was very diverse (most werent turkish)
 
-Religious toleration was allowed but non muslims had to pay tax
+Religious toleration was allowed but non muslims had to pay tax ( only empire to use `juzya tax`)
 
 Different court system for Muslims and non Muslims

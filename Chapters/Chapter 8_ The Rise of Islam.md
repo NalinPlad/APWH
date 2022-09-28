@@ -18,7 +18,7 @@
 > - said that Abraham built `Ka'ba`
 > - Site outside Mecca where god told abraham to sacrafice Ishmael
 
-### Muhammad (570-632)
+## Muhammad (570-632)
 
 - Married Khadija
 
@@ -36,3 +36,6 @@
 
 > **Islam** to the will of god
 
+## Formation of the Umma
+
+Mecca government 
