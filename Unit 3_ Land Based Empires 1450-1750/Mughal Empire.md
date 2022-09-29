@@ -12,7 +12,7 @@ Used ==gunpowder== (cannons and guns)
 
 ## Governing
 
-Centralized under `Akbar the Great`
+Centralized under `Akbar the Great` *1556-1605* #person 
 - Divided empire into 15 `Subahs` (provinces with districts that the emperor organized)
 
 ## Military/bureaucratic recruitment
@@ -33,7 +33,7 @@ Most military recruited by local nobles and leaders would contribute soldiers to
 
 Akbar allowed for religious freedom and for Hindus to serve in the government
 
-Ended the `Juzya tax`
+Ended the [[Ottoman Empire#^a97531|Juzya Tax]]
 
 Encouraged debates on Faith
 

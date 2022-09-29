@@ -1,12 +1,10 @@
-### Code block
-
 - `Person` (muhammad, zheng he)
 - `Place` (China)
-- `Government` (mongol empire, delhi caliphate)
 - `Technology` (Astrolabe, paper money)
-- `Group` (Golden horde, sufi muslims)
+- `Government` (mongol empire, delhi caliphate)
 - `System` (Feudalism, Caste system)
 - `Religion` (Buddhism, christianity)
+- `Group` (Golden horde, sufi muslims)
 - `Title` (Caliph, emperor)
 
 `code block`, **bold**, *italic*, ***bold italic***, ==highlighted==, 

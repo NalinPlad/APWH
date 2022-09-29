@@ -37,7 +37,7 @@ Basically ==Buddhism was assimilated into Chinese culture==, wasn't the defining
 | Great Sahara | copper and ==salt== |
 | sub-Saharan Africa (savanna grasslands, forest areas) | crops, textiles and metal products, and ==gold== |
 
-Arab merchants wanted ==gold== (west Africa). In return, people in the west got ==salt== from the sahara and other things. <br>
+Arab merchants wanted ==gold== from west Africa. In return, people in the west got ==salt== from the sahara and other things. <br>
 Ivory, kola nuts, slaves were wanted in the desert, mediterranean basin, and beyond. 
 
 > Large states/empires: Ghana (700-1200), Mali (1230-1500), Songhay (1430-1591), Kanem (1571-1603)
