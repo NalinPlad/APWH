@@ -16,9 +16,10 @@ Had a Divan council who would debate and then advised the coucil
 
 ## Military/Bureaucratic recruitment
 
+[[Chapter 19_ Southwest Asia and the Indian Ocean#^ce50e8]]
 `Devshirme System` ("blood tax") took christian boys (8-18) to work for government as bureaucrats/military soldiers (Janissaries)
 - Usually only from rural towns / villages not cities
-- Forced into Islam
+- Islam and military training
 - `Janissaries` first modern standing army in EU and were ==paid==
 
 ## Taxation to maintain + expand

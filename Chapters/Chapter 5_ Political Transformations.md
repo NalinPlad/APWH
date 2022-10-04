@@ -53,7 +53,7 @@ Local people ==weren't assimilated== into Chinese culture, and their cultures we
 
 [[Mughal Empire#Treatment of minority groups]]
 
-Some Muslims disagreed with the acceptance of Hinduism (Emperor `Aurangzeb` reversed `Akbar`s policy)
+Some Muslims disagreed with the acceptance of Hinduism ==(Emperor `Aurangzeb` reversed `Akbar`s policy and brought back intolerance)==
 
 ## Muslims and Christians in the Ottoman Empire
 
@@ -61,7 +61,7 @@ Some Muslims disagreed with the acceptance of Hinduism (Emperor `Aurangzeb` reve
 
 Conflict between Ottoman Empire (Sunni) and Persian Safavid Empire (Shia)
 
-*1453* | `Constantinople` fell to Muslims, renamed `Istanbul` -> Byzantium fell
+*1453* | `Constantinople` fell to Muslims, renamed `Istanbul` -> Byzantium fell ^008af9
 
 In `Anatolia`, Christians converted to Islam. In the `Balkans` it was mostly Christian
 

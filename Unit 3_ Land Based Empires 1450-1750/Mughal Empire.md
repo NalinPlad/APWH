@@ -12,7 +12,7 @@ Used ==gunpowder== (cannons and guns)
 
 ## Governing
 
-Centralized under `Akbar the Great` *1556-1605* #person 
+Centralized under `Akbar the Great` *1556-1605* #person  ^d0fb52
 - Divided empire into 15 `Subahs` (provinces with districts that the emperor organized)
 
 ## Military/bureaucratic recruitment
