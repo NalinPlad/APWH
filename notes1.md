@@ -26,7 +26,7 @@ Iranian ruling dynasty 250 BCE - 226 CE
 Helped foster the silk road
 Defeated and taken over by [Sasanid Empire]("#sasanid-empire")
 
-![Map of trade and communication routes](/images/CH7-1)
+![Map of trade and communication routes](/images/CH7-1.png)
 
 #### Nomadic lifestyle
 Mostly self reliant. Their travels took them away from cities so self-sufficiency was importent
@@ -63,7 +63,7 @@ Earliest Saharan history is from cave paintings
 Saharan trade most likely relates to more use of camel
 North and South trading communities slowly developed links
 
-![Saharan trade routes](/images/CH7-2)
+![Saharan trade routes](/images/CH7-2.png)
 
 ---
 
