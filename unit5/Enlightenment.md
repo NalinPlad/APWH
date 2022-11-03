@@ -1,4 +1,3 @@
-# Enlightenment
 ### What is the Enlightenment 
 Intellectual movement in Western Europe and its colonies that focus on logic and reason 
 
