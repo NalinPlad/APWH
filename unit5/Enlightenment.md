@@ -3,7 +3,6 @@ Intellectual movement in Western Europe and its colonies that focus on logic and
 
 Main focus on relationship between government and citizens. Observe and come to conclusions rather than taking what one is told as factual. Scientific revolution and humanism of the renaissance come together to create the Enlightenment
 
-
 ### What caused the enlightenment
 Scientific Revolution (1600s) science is based on laws rather than what the church teaches; it is observable
 
