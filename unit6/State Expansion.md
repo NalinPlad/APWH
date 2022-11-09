@@ -27,3 +27,7 @@ French control North and West Africa
 
 ## Belgium and the Congo
 King got control because other nations were fighting, and they didnt want conflict. The other nations were allowed to share the natural resources.
+
+## Expansion of US, Russia, Japan
+expanded holdings by conquering and settling their neighbors. The US used **Manifest Destiny**. Russia expanded to Pacific. Japan expanded to East Asia
+
