@@ -24,3 +24,6 @@ New technologies like steamships, railroads, malaria cure (quinine) the maxim gu
 
 British control much of East Africa
 French control North and West Africa
+
+## Belgium and the Congo
+King got control because other nations were fighting, and they didnt want conflict. The other nations were allowed to share the natural resources.
