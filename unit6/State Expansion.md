@@ -25,9 +25,29 @@ New technologies like steamships, railroads, malaria cure (quinine) the maxim gu
 British control much of East Africa
 French control North and West Africa
 
+No more trading posts, all imperial and empires.
+
+French took control of Indochina
+
+Dutch expanded control of Indonesia
+
+Australia was originally Penal Colony(people sent convicts there)
+
+New Zealand was a Settler colony
+Once people discovered that there was gold there they took over most of Oceanea
+
+Spanish would lose a war to the US allowing the US to control Philippines and also Hawaii
+
+Japan expanded in East Asian taking Korea
+
 ## Belgium and the Congo
 King got control because other nations were fighting, and they didnt want conflict. The other nations were allowed to share the natural resources.
 
 ## Expansion of US, Russia, Japan
 expanded holdings by conquering and settling their neighbors. The US used **Manifest Destiny**. Russia expanded to Pacific. Japan expanded to East Asia
+
+## Empires on Decline
+Spain and Portugal lost influence in Americas through 19th century following revolutionary movement
+
+Qing China was divided into spheres of influence by European Power. Had little control because if natural disaster and rebellions
 
