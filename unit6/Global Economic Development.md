@@ -26,4 +26,24 @@ With growing agriculture the demand for fertilizer increased. The best fertilize
 2. The shift to Cash Crops weakened many nations. Since these imperialized nations focused on growing one crop, if anything happened to that crop in the global economy it could ruin their economy 
 
 ## Economic Imperialism 
+The best way to think of Economic Imperialism is that the country doing the Imperializing (Mother Country) does not take over the government or try to rule them. 
 
+Instead, they try to dominate their economies by exploiting them via their government or companies to get the cash crops, minerals, or whatever they want from their economic colony.  Sometimes this is done almost entirely by businesses.
+
+#### Examples
+- India- British East India company forced their country to grow cotton 
+
+- China - demanded porcelain, silk, and tea . Britain would trade opium with China to force them to trade more
+
+- Latin America- USA would invest to ensure trading partners. Britain invested to build the port of Buenos Aires
+
+
+## Banana republics
+
+companies got monopoly
+
+country started to use companies money to build infrastructure in return for larger share of market
+
+had nearly total control over country
+
+they got lots of perks like lower tax and in return the goverment got things like new roads and other things.
