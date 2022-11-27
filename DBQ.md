@@ -1,3 +1,4 @@
+
 **Evaluate the extent to which Christian missionary efforts motivated European imperial expansion in nineteenth-century Africa.**
 
 ##### Documents
@@ -23,3 +24,4 @@ Despite the argument that efforts by Christian missionaries heavily motivated Eu
 
 ##### Body Paragraph 1
 Economic motivations were one of the primary causes of Imperial Expansion by Europeans into Africa. As we can see in (doc 1), Europeans used christianity and religion as a way try and make people more hard working, focused, and happy in their working conditions, which would lead to a higher volume of output in many markets, and by extension higher economic gain. This system of religously converting people to better fit into a certain type of work is remminicent of the Jannisary units from the Ottoman empire, in both situations the people were converted to a religion to unify them and make them better fit their new positions. (Doc 2) also serves as evidence to this point, with it showing how a diamond mining company went from unorganized and confused to quiet and secure, which is important as diamonds and other precious metals were one of Africas most valued exports, and the economic gain from the imperial expansion and colonization of the area was most likeley very large.
+
