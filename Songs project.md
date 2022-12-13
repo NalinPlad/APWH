@@ -10,4 +10,4 @@ Album name: *New* Breakfast in America
 7. Stayin Alive <= "Stayin alive"(New medicine)
 8. Feast in the USA <= "Party in the USA"
 9. Smells like Bacon <= "Smells like teen spirit" (or some other food)
-10. 
+10. Eye of the Pig <= "Eye of the tiger"
